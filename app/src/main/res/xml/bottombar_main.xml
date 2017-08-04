@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs>
+    <tab
+        id="@+id/tab_timeline"
+        icon="@drawable/ic_timeline_white_24dp"
+        title="Timeline"
+        barColorWhenSelected="@color/menu1" />
+    <tab
+        id="@+id/tab_history"
+        icon="@drawable/ic_history_white_24dp"
+        title="History"
+        barColorWhenSelected="@color/menu2" />
+    <tab
+        id="@+id/tab_warning"
+        icon="@drawable/ic_warning_white_24dp"
+        title="Warning"
+        barColorWhenSelected="@color/menu3" />
+
+</tabs>
